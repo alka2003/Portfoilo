@@ -1,0 +1,48 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  header h1 {
+    margin-top: 20px;
+    color: black ;
+  }
+  
+  header h2 {
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  #skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #skills li {
+    margin-bottom: 10px;
+  }
+  
+  #samples p {
+    margin-bottom: 10px;
+  }
+  
+  #resume p {
+    margin-bottom: 10px;
+  }
+  
+  #contact p {
+    margin-bottom: 5px;
+  }
+  #color{
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: skyblue;
+  }
+  
